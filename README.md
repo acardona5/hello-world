@@ -1,3 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub flow
-I like the color blue :D
+My name is Amy, and my favorite color is blue.
